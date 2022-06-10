@@ -11,8 +11,6 @@ repositories:
   url: https://jenkins-x-charts.github.io/repo
 - name: twuni
   url: https://helm.twun.io
-- chart: jxgh/lighthouse-webui-plugin
-  name: lighthouse-webui-plugin
 releases:
 - chart: jxgh/lighthouse-webui-plugin
   name: lighthouse-webui-plugin
